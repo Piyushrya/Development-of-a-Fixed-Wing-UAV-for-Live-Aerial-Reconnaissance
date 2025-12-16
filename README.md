@@ -5,12 +5,12 @@ The project covers the complete system lifecycle—from conceptual design and ai
 
 Key highlights include:
 
-Design and fabrication of a budget-friendly fixed-wing UAV platform optimized for live aerial surveillance
+1.Design and fabrication of a budget-friendly fixed-wing UAV platform optimized for live aerial surveillance
 
-Airframe configuration selection based on aerodynamic efficiency, payload integration, and manufacturability
+2.Airframe configuration selection based on aerodynamic efficiency, payload integration, and manufacturability
 
-Development of a detailed, cost-optimized bill of materials (BOM) aligned with performance and weight constraints
+3.Development of a detailed, cost-optimized bill of materials (BOM) aligned with performance and weight constraints
 
-Identification and resolution of flight performance issues, including center-of-gravity imbalances, control surface misalignment, and propulsion system positioning
+4.Identification and resolution of flight performance issues, including center-of-gravity imbalances, control surface misalignment, and propulsion system positioning
 
-Iterative testing and refinement to improve stability, control response, and overall flight reliability
+5.Iterative testing and refinement to improve stability, control response, and overall flight reliability
